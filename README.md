@@ -6,7 +6,7 @@
 <br><br>
 
 ### :computer: Computer Science
-Studying in Hallym MMC Lab
+Studying in <a href="https://sites.google.com/view/juhouhallym/home">Hallym MMC Lab</a>
 
 ### :stuck_out_tongue: Interest
 Computer Vision<br>
