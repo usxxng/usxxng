@@ -6,7 +6,7 @@
 <br><br>
 
 ### :computer: Computer Science
-Studying in <a href="https://sites.google.com/view/juhouhallym/home" target="_blank">Hallym MMC Lab</a>
+Studying in <a href="https://sites.google.com/view/juhouhallym/home"target="_blank">Hallym MMC Lab</a>
 
 ### :stuck_out_tongue: Interest
 Computer Vision<br>
@@ -20,7 +20,7 @@ Machine Learning & Deep Learning
 <br>
 <h3 align="center"> :globe_with_meridians: CONTACT </h3>
 <p align="center">
-  <a href="https://www.instagram.com/usxxng/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+  <a href="https://www.instagram.com/usxxng/"target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
   <a href="mailto:you-seung1227@hanmail.net"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <br>
