@@ -13,11 +13,11 @@ Machine Learning & Deep Learning
 Computer Vision
 
 
-<br><br>
+<br><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usxxng&show_icons=true&theme=dracula)
 
 
-<br><br>
+<br>
 <h3 align="center"> :globe_with_meridians: CONTACT </h3>
 <p align="center">
   <a href="https://www.instagram.com/usxxng/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
