@@ -5,12 +5,12 @@
 <br>
 
 ### :computer: Computer Science
-- Studying Computer Science in Hallym MMC Lab
+Studying Computer Science in Hallym MMC Lab
 
 ### :tongue: Interest
-- Machine Learning & Deep Learning
-- Computer Vision
-- 
+Machine Learning & Deep Learning
+Computer Vision
+
 
 <br><br>
 <h3 align="center"> :globe_with_meridians: CONTACT </h3>
