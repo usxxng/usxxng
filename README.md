@@ -8,7 +8,7 @@
 ### :computer: Computer Science
 Studying in Hallym MMC Lab
 
-### :full_moon_with_face: Interest
+### :stuck_out_tongue: Interest
 Machine Learning & Deep Learning
 Computer Vision
 
