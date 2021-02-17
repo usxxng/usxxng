@@ -9,7 +9,7 @@
 Studying in Hallym MMC Lab
 
 ### :stuck_out_tongue: Interest
-Machine Learning & Deep Learning
+Machine Learning & Deep Learning<br>
 Computer Vision
 
 
