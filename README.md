@@ -1,11 +1,12 @@
+<h2 align="center"> :fire: USEUNG WORKSPVCE </h2> <br>
+
 <div align=center>
 
-<h2 align="center"> :fire: USEUNG WORKSPVCE </h2> <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusxxng&count_bg=%23000000&title_bg=%23ED3F78&icon=&icon_color=%23E7E7E7&title=HELLO+VISITOR&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusxxng&count_bg=%23000000&title_bg=%23ED3F78&icon=youtube.svg&icon_color=%23E7E7E7&title=HELLO+VISITOR&edge_flat=true)](https://hits.seeyoufarm.com)
 <br>
 
 ### :computer: Computer Science
-Studying Computer Science in Hallym MMC Lab
+Studying in Hallym MMC Lab
 
 ### :tongue: Interest
 Machine Learning & Deep Learning
