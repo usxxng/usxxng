@@ -12,7 +12,9 @@ Studying in Hallym MMC Lab
 Machine Learning & Deep Learning
 Computer Vision
 
+</div>
 
+<div align=center>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usxxng&show_icons=true&theme=synthwave)
 
