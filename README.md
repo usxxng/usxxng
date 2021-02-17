@@ -15,9 +15,10 @@ Computer Vision
 </div>
 
 <div align=center>
-<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usxxng&show_icons=true&theme=synthwave)
+</div>
 
+<div align=center>
 <br><br>
 <h3 align="center"> :globe_with_meridians: CONTACT </h3>
 <p align="center">
