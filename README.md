@@ -15,7 +15,7 @@ Computer Vision
 <br><br>
 <h3 align="center"> :globe_with_meridians: CONTACT </h3>
 <p align="center">
-  <a href="https://www.instagram.com/usxxng/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+  <a href="https://www.instagram.com/usxxng/"><img src="https://img.shields.io/badge/Instagram?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
 </p>
 <br>
 
