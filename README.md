@@ -2,8 +2,7 @@
 
 <h2 align="center"> :fire: USEUNG WORKSPVCE </h2> <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusxxng&count_bg=%23000000&title_bg=%23ED3F78&icon=&icon_color=%23E7E7E7&title=HELLO+VISITOR&edge_flat=true)](https://hits.seeyoufarm.com)
-
-</div>
+<br>
 
 ### :computer: Computer Science
 - Studying Computer Science in Hallym MMC Lab
@@ -16,9 +15,12 @@
 <br><br>
 <h3 align="center"> :globe_with_meridians: CONTACT </h3>
 <p align="center">
-  <a href="https://www.instagram.com/usxxng/"><img src="https://img.shields.io/badge/Instagram-ffb13b?style=flat-square&logo=Instagram&logoColor=black"/></a>&nbsp
+  <a href="https://www.instagram.com/usxxng/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
 </p>
 <br>
+
+</div>
+
 <!--
 **usxxng/usxxng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
