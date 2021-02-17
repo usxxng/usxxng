@@ -12,12 +12,11 @@ Studying in Hallym MMC Lab
 Machine Learning & Deep Learning
 Computer Vision
 
-</div>
-
-![Anurag's GitHub stats](img align="center", src ="https://github-readme-stats.vercel.app/api?username=usxxng&show_icons=true&theme=synthwave")
 
 
-<div align=center>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usxxng&show_icons=true&theme=synthwave)
+
+
 <br><br>
 <h3 align="center"> :globe_with_meridians: CONTACT </h3>
 <p align="center">
