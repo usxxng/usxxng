@@ -14,9 +14,9 @@ Computer Vision
 
 </div>
 
-<div align=center>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usxxng&show_icons=true&theme=synthwave)
-</div>
+
 
 <div align=center>
 <br><br>
