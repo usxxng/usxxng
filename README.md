@@ -10,7 +10,7 @@ Studying in <a href="https://milab.korea.ac.kr/" target="_blank">Machine Intelli
 
 ### :stuck_out_tongue: Interest
 Computer Vision<br>
-Machine Learning & Deep Learning
+Deep Learning
 
 
 <br><br><br>
