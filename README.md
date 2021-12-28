@@ -6,7 +6,7 @@
 <br><br>
 
 ### :computer: Computer Science
-Studying in <a href="https://milab.korea.ac.kr/" target="_blank">Machine Intelligence Lab</a>
+Studying in <!--<a href="https://milab.korea.ac.kr/" target="_blank">Machine Intelligence Lab</a> -->
 
 ### :stuck_out_tongue: Interest
 Computer Vision<br>
