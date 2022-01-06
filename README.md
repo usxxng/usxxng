@@ -7,11 +7,13 @@
 
 ### :computer: Computer Science
 Studying in <!--<a href="https://milab.korea.ac.kr/" target="_blank">Machine Intelligence Lab</a> -->
+<a href="https://sites.google.com/view/usxxng" target="_blank">CV</a>
 
 ### :stuck_out_tongue: Interest
 Computer Vision<br>
 Deep Learning
-
+Pattern Recognition
+Image Segmentation
 
 <br><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usxxng&show_icons=true&theme=dracula)
