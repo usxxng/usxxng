@@ -25,7 +25,7 @@ Image Segmentation
 <h3 align="center"> :globe_with_meridians: CONTACT </h3>
 <p align="center">
   <a href="https://www.instagram.com/usxxng/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
-  <a href="mailto:you-seung1227@hanmail.net"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:raperk1227@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <br>
 
