@@ -13,8 +13,8 @@ Studying in <!--<a href="https://milab.korea.ac.kr/" target="_blank">Machine Int
 
 ### :stuck_out_tongue: Interest
 Computer Vision<br>
-Deep Learning
-Pattern Recognition
+Deep Learning<br>
+Pattern Recognition<br>
 Image Segmentation
 
 <br><br><br>
