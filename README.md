@@ -4,8 +4,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusxxng&count_bg=%23000000&title_bg=%23ED3F78&icon=youtube.svg&icon_color=%23E7E7E7&title=HELLO+VISITOR&edge_flat=true)](https://hits.seeyoufarm.com)
 <br><br>
-### :clipboard: Resume
-<a href="https://sites.google.com/view/usxxng" target="_blank">CV</a><br><br>
+### :clipboard: CV
+<a href="https://sites.google.com/view/usxxng" target="_blank">usxxng</a><br><br>
   
 ### :computer: Computer Science.
 Studying in <!--<a href="https://milab.korea.ac.kr/" target="_blank">Machine Intelligence Lab</a> -->
