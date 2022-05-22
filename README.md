@@ -15,7 +15,8 @@ Studying in <a href="https://milab.korea.ac.kr/" target="_blank">Machine Intelli
 Computer Vision<br>
 Deep Learning<br>
 Pattern Recognition<br>
-Image Segmentation
+Image Segmentation<br>
+Object Detection
 
 <br><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usxxng&show_icons=true&theme=dracula)
