@@ -13,9 +13,9 @@ Studying in <a href="https://milab.korea.ac.kr/" target="_blank">Machine Intelli
 
 ### :stuck_out_tongue: Interest
 Computer Vision<br>
+Deep Neural Network<br>
 Pattern Recognition<br>
 Image Segmentation<br>
-Object Detection
 
 <br><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usxxng&show_icons=true&theme=dracula)
