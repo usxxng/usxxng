@@ -13,7 +13,6 @@ Studying in <a href="https://milab.korea.ac.kr/" target="_blank">Machine Intelli
 
 ### :stuck_out_tongue: Interest
 Computer Vision<br>
-Deep Neural Network<br>
 Pattern Recognition<br>
 Image Segmentation<br>
 
