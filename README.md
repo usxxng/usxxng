@@ -15,10 +15,6 @@ Studying in <a href="https://milab.korea.ac.kr/" target="_blank">Machine Intelli
 Computer Vision<br>
 Pattern Recognition<br>
 
-<br><br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usxxng&show_icons=true&theme=dracula)
-
-
 <br>
 <h3 align="center"> :globe_with_meridians: CONTACT </h3>
 <p align="center">
