@@ -8,12 +8,11 @@
 <a href="https://sites.google.com/view/usxxng" target="_blank">usxxng Page</a><br><br>
   
 ### :computer: Computer Science.
-Studying in <a href="https://milab.korea.ac.kr/" target="_blank">Machine Intelligence Lab</a>
 
 
 ### :stuck_out_tongue: Interest
-Computer Vision<br>
-Pattern Recognition<br>
+Domain Adaptation<br>
+Transfer Learning<br>
 
 <br>
 <h3 align="center"> :globe_with_meridians: CONTACT </h3>
