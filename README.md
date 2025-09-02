@@ -3,8 +3,8 @@
 <div align=center>
 
 <br><br>
-### :pencil: CV
-<a href="https://sites.google.com/view/usxxng" target="_blank">usxxng Page</a><br><br>
+### :pencil: Profile
+<a href="https://www.linkedin.com/in/usxxng/" target="_blank">Yooseung LinkedIn</a><br><br>
   
 ### :computer: Computer Science.
 
