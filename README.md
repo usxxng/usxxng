@@ -10,8 +10,7 @@
 
 
 ### :stuck_out_tongue: Interest
-Domain Adaptation<br>
-Transfer Learning<br>
+
 
 <br>
 <h3 align="center"> :globe_with_meridians: CONTACT </h3>
